@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mike
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning javaScript
+- 🌱 I’m currently learning javaScript and React.js
 - 📫 Reach me at michaelwjrushton@gmail.com
 
 <!---
