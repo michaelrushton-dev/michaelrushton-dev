@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mike
 - 👀 I’m interested in full stack web development
-- 🌱 I’m currently learning with the School of Code
+- 🌱 I am a graduate from the School of Code
 - 📫 Reach me at michaelwjrushton@gmail.com
 
 <!---
