@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mike
-- 👀 I’m interested in full stack web development
+- 👀 I’m interested in front end web development
 - 🌱 I am a graduate from the School of Code
 - 📫 Reach me at michaelwjrushton@gmail.com
 - Check my portfolio out at https://mike-rushton.netlify.app/
