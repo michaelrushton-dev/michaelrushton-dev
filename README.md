@@ -8,7 +8,7 @@
 ### <div align="center">Hello, i'm Michael. I am a School of Code graduate and frontend developer</div>  
   
 
-- 🔭 At the moment I am working on a charity app to help users locate their nearest food bank and for owners to register their food banks to. It is called [Community Yard](https://github.com/St0neofFr33dom/Community-Yard)  
+- 🍏 At the moment I am working on a charity app to help users locate their nearest food bank and for owners to register their food banks to. It is called [Community Yard](https://github.com/St0neofFr33dom/Community-Yard)  
   
 
 - 🌱 I am learning NextJS and Typescript  
@@ -17,6 +17,8 @@
 - 🍜 I love cooking and eating, especially asian food  
 
 - 🖥️ Check out my [personal website here](https://mike-rushton.netlify.app/)
+
+- 🚀 I love solving kata on Codewars, [here are my solutions](https://www.codewars.com/users/Mikey1985)
 
 <br/>  
 
