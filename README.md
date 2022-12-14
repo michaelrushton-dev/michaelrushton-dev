@@ -1,6 +1,8 @@
 <div align="center">
-<img src="https://media.tenor.com/XtrqzX_jBNkAAAAC/typing-eric-cartman.gif" align="center" height="250" width="" />
-</div>  
+<img src="https://media.licdn.com/dms/image/C4E16AQHIHl-V8WhSug/profile-displaybackgroundimage-shrink_350_1400/0/1635500026647?e=1676505600&v=beta&t=sVSQ2RZlpGeSs4Xnxlj-gIvaZ9U7hggD2RJX-Vwyuio" align="center" height="250" width="" />
+</div> 
+
+
   
 
 ### <div align="center">Hello, i'm Michael. I am a School of Code graduate and frontend developer</div>  
