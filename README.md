@@ -5,7 +5,7 @@
 
   
 
-### <div align="center">Hello, i'm Michael. I am a School of Code graduate and frontend developer</div>  
+### <div align="center">Hello, I'm Michael. I am a School of Code graduate and frontend developer</div>  
   
 
 - 🍏 At the moment I am working on a charity app to help users locate their nearest food bank and for owners to register their food banks to. It is called [Community Yard](https://github.com/St0neofFr33dom/Community-Yard)  
