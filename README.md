@@ -18,7 +18,7 @@
 
 - 🖥️ Check out my [personal website here](https://mike-rushton.netlify.app/)
 
-- 🚀 I love solving kata on Codewars, [here are my solutions](https://www.codewars.com/users/Mikey1985)
+- 🚀 I love solving kata on Codewars, [here are my solutions](https://www.codewars.com/users/Mikey1985/completed_solutions)
 
 <br/>  
 
