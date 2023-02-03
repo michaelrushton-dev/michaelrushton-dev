@@ -14,7 +14,7 @@
 - 🌱 I am learning NextJS and Typescript  
   
 
-- 🍜 I love cooking and eating, especially asian food  
+- 🍜 I love cooking and eating, especially Asian food  
 
 - 🖥️ Check out my [personal website here](https://mike-rushton.netlify.app/)
 
