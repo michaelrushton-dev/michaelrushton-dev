@@ -8,10 +8,7 @@
 ### <div align="center">Hey! I'm Michael, a School of Code graduate and web developer</div>  
   
 
-- 🍏 At the moment I am working on a charity app to help users locate their nearest food bank and for owners to register their food banks to. It is called [Community Yard](https://github.com/St0neofFr33dom/Community-Yard)  
-  
-
-- 🌱 I am learning NextJS and Typescript  
+- 🍏 At the moment I am working on a charity app to help users locate their nearest food bank and for owners to register their food banks to. It is called [Community Yard](https://github.com/St0neofFr33dom/Community-Yard) 
   
 
 - 🍜 I love cooking and eating, especially Asian food  
