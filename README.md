@@ -5,7 +5,7 @@
 
   
 
-### <div align="center">Hey! I'm Michael, a School of Code graduate and web developer</div>  
+### <div align="center">Hey! I'm Michael, a full stack software engineer at Stack Wizards and a School of Code graduate</div>  
   
 
 - 🍏 At the moment I am working on a charity app to help users locate their nearest food bank and for owners to register their food banks to. It is called [Community Yard](https://github.com/St0neofFr33dom/Community-Yard) 
