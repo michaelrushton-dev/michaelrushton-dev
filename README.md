@@ -5,7 +5,7 @@
 
   
 
-### <div align="center">Hey! I'm Michael, a full stack software engineer wizard at Enggenius Technology and a School of Code graduate</div>  
+### <div align="center">Hey! I'm Michael, a full stack software engineer at Enggenius Technology and a School of Code graduate</div>  
   
 
 - 🍏 I love learning new things and exploring ways of making  code more efficient, clean and useful.
